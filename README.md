@@ -39,12 +39,12 @@ You can install the required packages via:
 ## Usage
 1. Clone the repository
 
-    git clone https://github.com/YiMingPan-Xv/ml4astronomy.git
+        git clone https://github.com/YiMingPan-Xv/ml4astronomy.git
 
 2. Navigate to the repository
 
-    cd ml4astronomy
+        cd ml4astronomy
 
 3. Launch Jupyter Notebook and open any notebook from the `lectures/` or `project/` folder:
 
-    jupyter notebook
+        jupyter notebook
