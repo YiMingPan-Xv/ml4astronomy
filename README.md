@@ -1,8 +1,8 @@
 # Machine Learning for Physics and Astronomy
 
-This repo contains notebooks exploring different concepts and methods for machine learning focused on Bayesian theory. 
+This repository contains notebooks and exercises exploring machine learning methods in physics and astronomy, with a strong focus on Bayesian inference. It includes both lecture exercises and a project on modeling the expansion of the universe.
 
-## Structure
+## Repository Structure
 
     machinelearning4physics_bicocca_2025_solutions/
     ├── lectures/                       # Lecture exercises
@@ -19,3 +19,10 @@ This repo contains notebooks exploring different concepts and methods for machin
     │   └── UniverseExpansion.ipynb     # Project file
     └── README.md                       # Documentation
 
+## Key Topics Covered
+- Probability Theory: Monty Hall problem, Bayesian reasoning
+- Sampling Methods: Black holes example, Monte Carlo sampling
+- Density Estimation: Exoplanet data analysis
+- Markov Chains & MCMC: Weather simulation and transient events
+- Model Selection & Bayesian Evidence: Higgs boson and nested sampling examples
+- Practical Projects: Universe expansion modeling using real supernovae data
