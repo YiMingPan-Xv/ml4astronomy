@@ -26,3 +26,25 @@ This repository contains notebooks and exercises exploring machine learning meth
 - Markov Chains & MCMC: Weather simulation and transient events
 - Model Selection & Bayesian Evidence: Higgs boson and nested sampling examples
 - Practical Projects: Universe expansion modeling using real supernovae data
+
+## Requirements
+- Python ≥ 3.10
+- Jupyter notebook
+- Libraries: `arviz`, `corner`, `dynesty`, `matplotlib`, `numpy`, `pandas`, `pymc`, `pytensor`, `scipy`, `seaborn`, `scikit-learn`
+
+You can install the required packages via:
+
+    pip install -r requirements.txt
+
+## Usage
+1. Clone the repository
+
+    git clone https://github.com/YiMingPan-Xv/ml4astronomy.git
+
+2. Navigate to the repository
+
+    cd ml4astronomy
+
+3. Launch Jupyter Notebook and open any notebook from the `lectures/` or `project/` folder:
+
+    jupyter notebook
